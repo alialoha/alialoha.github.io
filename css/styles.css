@@ -28,15 +28,15 @@
   font-weight: bold;
   border-radius: 0 8px 0 8px;
 }
-#1.menue-title {
+#1 .menue-title {
     align-content: flex-end;
     background-color: blue
 }
-#2.menue-title {
+#2 .menue-title {
     text-align: right;
     background-color: magenta
 }
-#3.menue-title#3 {
+#3 .menue-title#3 {
     text-align: right;
     background-color: yellow
 }
