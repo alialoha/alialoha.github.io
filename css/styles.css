@@ -17,21 +17,24 @@
     color: white;
   }
 
-.menue-title {
+/* menue title styles. */
+  .menue-title {
     font-size: 24px;
 }
 .menue-title#1 {
+    align-content: flex-end;
     background-color: blue
 }
-
 .menue-title#2 {
+    align-items: end;
     background-color: magenta
 }
-
-.menue-title#1 {
+.menue-title#3 {
+    box-align: right;
     background-color: yellow
 }
-  /* Simple Responsive Framework. */
+ 
+/* Simple Responsive Framework. */
   .row {
     width: 100%;
   }
