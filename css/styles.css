@@ -16,7 +16,21 @@
     font-family: Helvetica;
     color: white;
   }
-  
+
+.menue-title {
+    font-size: 24px;
+}
+.menue-title#1 {
+    background-color: blue
+}
+
+.menue-title#2 {
+    background-color: magenta
+}
+
+.menue-title#1 {
+    background-color: yellow
+}
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
