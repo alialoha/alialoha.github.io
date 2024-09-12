@@ -18,19 +18,25 @@
   }
 
 /* menue title styles. */
-  .menue-title {
-    font-size: 24px;
+.menu-title {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px 15px;
+  color: white;
+  font-weight: bold;
+  border-radius: 0 8px 0 8px;
 }
-.menue-title#1 {
+#1.menue-title {
     align-content: flex-end;
     background-color: blue
 }
-.menue-title#2 {
-    align-items: end;
+#2.menue-title {
+    text-align: right;
     background-color: magenta
 }
-.menue-title#3 {
-    box-align: right;
+#3.menue-title#3 {
+    text-align: right;
     background-color: yellow
 }
  
