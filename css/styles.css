@@ -24,7 +24,7 @@
     background-color: #ddeed4; /* Background color for the item */
   /*  padding: 20px; /* Padding inside the item */
   /*  margin-bottom: 20px; /* Space between items */
-  /*  border-radius: 8px; /* Rounded corners */
+   border-radius: 8px; /* Rounded corners
     text-align: left; /* Align text to the left */
   }
   
@@ -48,7 +48,7 @@
 #menu3 .menu-title {
     background-color: yellow
 }
- 
+
 /* Simple Responsive Framework. */
 .menu-row {
     width: 100%;
