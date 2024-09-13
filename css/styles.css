@@ -22,22 +22,21 @@
 .menu-item {
     position: relative; /* Position relative for absolute child */
     background-color: #ddd; /* Background color for the item */
-    padding: 20px; /* Padding inside the item */
-    margin-bottom: 20px; /* Space between items */
-    border-radius: 8px; /* Rounded corners */
+  /*  padding: 20px; Padding inside the item
+  /*  margin-bottom: 20px; /* Space between items */
+  /*  border-radius: 8px; /* Rounded corners */
     text-align: left; /* Align text to the left */
   }
   
 /* Menu title styles */
 .menu-title {
   position: absolute; /* Position the title absolutely */
-  top: 10px; /* Adjust position from top */
-  right: 10px; /* Adjust position from right */
-  padding: 5px 15px;
+/*  top: 10px; /* Adjust position from top */
+/*  right: 10px; /* Adjust position from right */
+/*  padding: 5px 15px; */
   color: white;
   font-weight: bold;
   border-radius: 0 8px 0 8px;
-  background-color: #000; /* Fallback color */
 }
 
 #menu1 .menu-title {
