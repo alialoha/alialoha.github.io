@@ -15,22 +15,21 @@
     margin-right: auto;
     margin-left: auto;
     font-family: Helvetica;
-    color: white;
+    color: black;
   }
 
 /* Menu item styles */
 .menu-item {
-    position: relative; /* Position relative for absolute child */
-    background-color: #ddeed4; /* Background color for the item */
+  position: relative; /* Position relative for absolute child */
+  background-color: #ddeed4; /* Background color for the item */
   /*  padding: 20px; /* Padding inside the item */
   /*  margin-bottom: 20px; /* Space between items */
-   border-radius: 8px; /* Rounded corners
-    text-align: left; /* Align text to the left */
+  border-radius: 8px; /* Rounded corners
   }
   
 /* Menu title styles */
 .menu-title {
-  position: absolute; /* Position the title absolutely */
+  position: relative; /* Position the title absolutely */
   top: 10px; /* Adjust position from top */
   right: 10px; /* Adjust position from right */
   padding: 5px 15px;
@@ -46,7 +45,7 @@
     background-color: magenta
 }
 #menu3 .menu-title {
-    background-color: yellow
+    background-color: rgb(236, 173, 39)
 }
 
 /* Simple Responsive Framework. */
