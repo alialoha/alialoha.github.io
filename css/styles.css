@@ -18,8 +18,8 @@
     color: white;
   }
 
-/* menue title styles. */
-.menue-title {
+/* menu title styles. */
+.menu-title {
   position: absolute;
   top: 0;
   right: 0;
@@ -28,13 +28,13 @@
   font-weight: bold;
   border-radius: 0 8px 0 8px;
 }
-#menue1 .menue-title {
+#menu1 .menu-title {
     background-color: blue
 }
-#menue2 .menue-title {
+#menu2 .menu-title {
     background-color: magenta
 }
-#menue3 .menue-title {
+#menu3 .menu-title {
     background-color: yellow
 }
  
