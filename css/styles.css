@@ -29,7 +29,7 @@
   
 /* Menu title styles */
 .menu-title {
-  position: relative; /* Position the title absolutely */
+  position: absolute; /* Position the title absolutely */
   top: 10px; /* Adjust position from top */
   right: 10px; /* Adjust position from right */
   padding: 5px 15px;
