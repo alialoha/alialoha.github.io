@@ -59,7 +59,7 @@ h3 {
     padding: 5px;
     text-decoration: none; /* Remove underline */
     color: inherit;
-   }
+}
 
  /********** Small devices only **********/
  @media (min-width: 768px) and (max-width: 991px) {
